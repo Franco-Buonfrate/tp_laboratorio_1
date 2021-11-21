@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1637452372 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"miBiblioteca.h"
+
+1637455755 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\linkedlist.h
+
+1637202966 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\employee.h
+	"LinkedList.h"
+
+1604316218 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\parser.h
+
+1635336471 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\mibiblioteca.h
+
+1637438350 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Employee.h"
+	"LinkedList.h"
+
+1637455958 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"miBiblioteca.h"
+
+1637456028 c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\controller.h
+
+1637447600 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637455958 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1637178769 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\2da parte\tp_04\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
